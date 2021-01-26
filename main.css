@@ -284,7 +284,7 @@ header{
 
 .about_img img{
     width: 200px;
-    height: calc(12rem - 15rem);
+    height: calc(2rem - 5rem);
     border-radius: .5rem;
 }
 
